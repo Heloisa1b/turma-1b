@@ -13,3 +13,9 @@ body{
     font-size: 35px;
 }
 
+nav a{
+    text-transform: uppercase;
+    color: #5212a1;
+}
+
+
