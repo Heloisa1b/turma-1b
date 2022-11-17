@@ -1,3 +1,9 @@
 body{
-    background: url("img.inicial.jpg");
+    background: black
 }
+
+nav a{
+    text-transform: uppercase;
+    color: #5212a1;
+}
+
