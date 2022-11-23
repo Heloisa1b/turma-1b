@@ -13,6 +13,11 @@ body{
     font-size: 35px;
 }
 
+nav{
+    display: inline-block;
+    vertical-align: top;
+}
+
 nav a{
     text-transform: uppercase;
     color: #5212a1;
@@ -20,4 +25,9 @@ nav a{
     text-decoration: none;
 }
 
+.imgf{
+    width: 50%;
+    height: auto;
+    display: inline-block;
+}
 
